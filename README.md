@@ -64,7 +64,7 @@ Download the latest version from the link below:
 
 **Basic usage** (saves Excel in the same folder):
 `
-**SDR-Metrics.exe --subscription-id "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"**
+SDR-Metrics.exe --subscription-id "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 `
 
 **Custom output path:**
