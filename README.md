@@ -134,4 +134,4 @@ For example, if you run it in March 2026, it collects data from **February 1 –
 
 ## 📬 Support
 
-For issues or questions, contact the platform team.
+For issues or questions, contact NTID: OOF3KOR .
