@@ -44,7 +44,8 @@ A browser window will open — sign in with your **Azure account** that has acce
 
 Download the latest version from the link below:
 
-👉 **[Download SDR-Metrics.exe](https://github.com/doorwarhariom/SDR-metrics-release/releases/latest/download/SDR-Metrics.exe)**
+👉 **[Download SDR-Metrics.exe](https://github.com/doorwarhariom/SDR-metrics-release/releases/download/latest/SDR-Metrics.exe)**
+https://github.com/doorwarhariom/SDR-metrics-release/releases/download/latest/SDR-Metrics.exe
 
 ---
 
